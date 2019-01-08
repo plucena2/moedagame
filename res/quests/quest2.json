@@ -1,0 +1,8 @@
+﻿{
+  
+	   "name": "pick",
+	    "type":"pick",
+	    "target": 0,
+	    "cond": 15,
+		"gold":5
+}

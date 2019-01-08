@@ -1,0 +1,7 @@
+﻿{
+      "name": "kill",
+	    "type":"kill",
+	    "target": 0,
+	    "cond": 5,
+		"gold":10
+}

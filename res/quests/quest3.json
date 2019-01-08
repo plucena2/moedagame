@@ -1,0 +1,8 @@
+﻿{
+   
+	   "name": "move",
+	    "type":"move",
+	    "target": 0,
+	    "cond": 50,
+		"gold":15
+}
