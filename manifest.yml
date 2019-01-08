@@ -1,0 +1,8 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: mdaxgame
+  name: mdaxgame
+  memory: 64M
+  stack: cflinuxfs2
+
